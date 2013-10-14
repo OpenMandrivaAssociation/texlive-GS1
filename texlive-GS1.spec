@@ -6,7 +6,7 @@
 # catalog-version 9
 Name:		texlive-GS1
 Version:	9
-Release:	1
+Release:	2
 Summary:	Typeset EAN barcodes using TeX rules, only
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gs1
